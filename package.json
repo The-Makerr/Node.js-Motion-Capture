@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "motion": "^10.16.2",
+    "node-webcam": "^0.8.2",
+    "path": "^0.12.7"
+  }
+}
